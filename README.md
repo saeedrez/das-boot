@@ -3,7 +3,8 @@ Spring boot REST demo service with inmemory db - 2019-jan
 
 
 To run:
-http://localhost:8080/index.html#/
+from eclipse: rightclick on app.java and run as application
 
 endpoints:
-localhost:8080/api/vi/shipwrecks (see controller files)
+http://localhost:8080/index.html#/
+http://localhost:8080/api/vi/shipwrecks (see controller files)
